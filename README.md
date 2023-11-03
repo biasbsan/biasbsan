@@ -9,18 +9,26 @@
 
 <br>
 
-| |
-|-|
-| **Sobre mim** |
+## **Sobre mim** 
 
-<div>
-    <ul>
-        <li> <b> Carioca, 26 anos, formada em Medicina Veterinária.🎓🐕 </b>
-        <li> <b> Estou em busca de transição de carreira, pois sempre fui apaixonada por design e tecnologia.📱</b>
-        <li><b> Atualmente sou estudante da ADA pelo programa "vem ser tech", em parceria com o iFood.</b>
-        <li><b> Minhas área de estudo são HTML, CSS, Bootstrap, JavaScript e UX/UI💻</b>
-    </ul>
-</div>
+<b> 🎓 Carioca, 26 anos, formada em Medicina Veterinária.
+
+<b> 📱 Estou em busca de transição de carreira com foco na área de frontend, pois sempre fui apaixonada por arte, design e tecnologia, então por que não trabalhar com algo que une tudo isso? </b>
+
+<b>💻  Atualmente sou estudante da ADA pelo programa "vem ser tech", em parceria com o iFood.</b>
+
+<b> 📖 Minhas áreas de estudo são HTML, CSS, Bootstrap, JavaScript e UX/UI. </b>
+
+<b> 💪 Estou sempre em busca de aprendizado e novos desafios!
+
+<b> 🎨 Amo desenhar e criar novas ideias~
+
+
+## **Hard Skills:**
+- **Trabalho em Equipe**
+- **Criatividade e comunicação**
+- **Organização com entregas e prazos**
+- **Alta adaptabilidade** 
 
 <br>
 
@@ -46,6 +54,8 @@
     <img alt="Photoshop" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 </div>
+
+<br>
 
 <h2 align="center">Meus contatos:</h2>
 <div align="center" style="display: inline_block">
