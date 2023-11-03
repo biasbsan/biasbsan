@@ -3,9 +3,12 @@
 
 <br>
 
-<img align="center" alt="gif-2-meninas-no-quarto-com-gato" width="400" style="border-radius:5px; display: block; margin: 0 auto;"
-    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9100d753-02ac-4ed8-ac98-5e45d6deecad/dfcp6be-ab02d3dc-44d4-4b04-b047-7ca7303f1744.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxMDBkNzUzLTAyYWMtNGVkOC1hYzk4LTVlNDVkNmRlZWNhZFwvZGZjcDZiZS1hYjAyZDNkYy00NGQ0LTRiMDQtYjA0Ny03Y2E3MzAzZjE3NDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Y-3AnIEElCduoBlwzZO_kqMR8eJEHz7PphWhDBIU4Ms" />
 
+<div style="display: flex; justify-content: center; align-items: center; height: 250px;">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9100d753-02ac-4ed8-ac98-5e45d6deecad/dfcp6be-ab02d3dc-44d4-4b04-b047-7ca7303f1744.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxMDBkNzUzLTAyYWMtNGVkOC1hYzk4LTVlNDVkNmRlZWNhZFwvZGZjcDZiZS1hYjAyZDNkYy00NGQ0LTRiMDQtYjA0Ny03Y2E3MzAzZjE3NDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Y-3AnIEElCduoBlwzZO_kqMR8eJEHz7PphWhDBIU4Ms" height: auto;">
+</div>
+
+<br>
 
 <div style="display: flex; justify-content: center;">
     <ul>
@@ -20,9 +23,7 @@
     <div>
         <a href="https://github.com/biasbsan"></a>
             <img loading="lazy" height="130em"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=biasbsan&layout=compact&langs_count=7&theme=dracula" />
-            <img loading="lazy" height="130em"
-                src="https://github-readme-stats.vercel.app/api?username=biasbsan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+                src="https://github-readme-stats.vercel.app/api/top-langs/?
     </div>
 </div>
 
