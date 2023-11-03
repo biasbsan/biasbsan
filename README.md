@@ -20,8 +20,7 @@
     <div>
         <a href="https://github.com/biasbsan"></a>
             <img loading="lazy" height="130em"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?
-    </div>
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=biasbsan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <h2 align="center">Estou aprendendo:</h2>
