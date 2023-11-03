@@ -21,15 +21,12 @@
 
 <b> 💪 Estou sempre em busca de aprendizado e novos desafios!
 
-<b> 🎨 Amo desenhar e criar novas ideias~
-
-<br>
+<b> 🎨 Amo imaginar e criar novas ideias~
 
 <div align="center">
     <img alt="gato-digitando-no-teclado" width="300" 
     src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_00.gif"/>
 </div>
-
 
 ## **Soft Skills:**
 - **Trabalho em Equipe**
@@ -61,8 +58,6 @@
     <img alt="Photoshop" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 </div>
-
-<br>
 
 <h2 align="center">Meus contatos:</h2>
 <div align="center" style="display: inline_block">
