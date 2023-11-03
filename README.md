@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá, Dev! Me chamo Bianca. ✨</h1>
+<h1 align="center" style="background-color: pink; color: black;">✨ Olá, Dev! Me chamo Bianca! ✨</h1>
 <h1 align="center" style="display: block; margin: 0 auto;"> <img src="https://2.bp.blogspot.com/-mYHdq1MDvAM/TjrMaGfpaoI/AAAAAAAABRM/-XbzfPfUXis/s1600/yukichannoodle.gif)" alt="GIF de boas-vindas" height="30"> Bem-vind@ ao meu perfil no GitHub! <img src="https://2.bp.blogspot.com/-mYHdq1MDvAM/TjrMaGfpaoI/AAAAAAAABRM/-XbzfPfUXis/s1600/yukichannoodle.gif)" alt="GIF de boas-vindas com um panda dançando" height="30"> </h1>
 
 <br>
@@ -8,6 +8,15 @@
 </div>
 
 <br>
+
+---
+
+---
+
+<span style="background-color: pink; color: black; display: block; text-align: center;"> <b> Sobre mim: </b></span>
+
+---
+---
 
 <div>
     <ul>
