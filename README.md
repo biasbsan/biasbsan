@@ -9,7 +9,7 @@
 
 <br>
 
-## **Sobre mim** 
+## **Sobre mim:** 
 
 <b> 🎓 Carioca, 26 anos, formada em Medicina Veterinária.
 
@@ -23,8 +23,15 @@
 
 <b> 🎨 Amo desenhar e criar novas ideias~
 
+<br>
 
-## **Hard Skills:**
+<div align="center">
+    <img alt="gato-digitando-no-teclado" width="300" 
+    src="https://pa1.aminoapps.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_00.gif"/>
+</div>
+
+
+## **Soft Skills:**
 - **Trabalho em Equipe**
 - **Criatividade e comunicação**
 - **Organização com entregas e prazos**
